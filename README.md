@@ -101,22 +101,3 @@ Sales managers need quick access to individual rep performance without navigatin
 
 **Context:** Built as a mini-project demonstrating advanced Excel proficiency for business analytics applications.
 ```
-
----
-
-## **GITHUB REPO STRUCTURE:**
-```
-excel-dynamic-sales-dashboard/
-│
-├── README.md                        
-│
-├── Excel-Dynamic-Sales-Dashboard.xlsx
-│
-├── screenshots/                       
-│   ├── dashboard-ana-february.png     # Dashboard with Ana selected
-│   ├── dashboard-ben-december.png     # Dashboard with Ben selected
-│   ├── data-sheet.png                 # Data sheet view
-│   └── product-sales-rep-tables.png   # Master tables view
-|
-└── project-requirements.pdf           
-```
